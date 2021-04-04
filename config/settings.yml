@@ -1,0 +1,4 @@
+plugins:
+  topic_page_user_summary_enabled:
+    default: true
+    client: false
